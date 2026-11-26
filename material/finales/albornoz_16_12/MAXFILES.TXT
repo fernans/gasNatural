@@ -1,0 +1,4 @@
+P:\PROYECTOS\Cubensis\App_Kinect\02_Preproduction\04_Models\albornoz\t$m$p$$$\albornoz_16_12.max
+P:\PROYECTOS\Cubensis\App_Kinect\02_Preproduction\04_Models\albornoz\t$m$p$$$\MAXFILES.TXT
+C:\Program Files\Autodesk\3ds Max 2014\Maps\glare\glare_streaks_star_camera_filter.tif
+P:\PROYECTOS\Cubensis\App_Kinect\02_Preproduction\05_Materials\Pijama\albornoz_gorro.jpg

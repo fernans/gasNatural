@@ -1,0 +1,39 @@
+TECLAS
+=======
+
+Estando en modo normal (uso):
+  Ctrl+Alt+ESC = Salir
+  Ctrl+Alt+Borrar = Volver a Escena (anular captura de foto y datos)
+
+  Ctrl+Alt+C = Entrar/Salir de Calibracion
+
+---
+
+Estando en modo calibracion:
+
+  Sujetando Ctrl = Aumenta el Step de ajustes x10
+  Sujetando Shift = Reduce el Step de ajustes :10
+
+  Borrar = Oculta/Muestra todo contenido 3D (solo durante calibracion)
+
+Ajustar esqueleto 3D : (para que coincida sobre la imagen de camara)
+  A-D : lateral
+  W-S: vertical
+  Q-E: profundidad (tamaño del esqueleto)
+  O-P: perspectiva (profundidad de campo / lente)
+
+Ajustar geometria 3D : (para que coincida alto/ancho del cuerpo y hombros)
+  G-J : horizontal
+  Y-H: vertical
+  T-U: profundidad (grosor)
+
+Ajustar mascara kinect : (para que coincida la mascara sobre la imagen)
+  Cursores : Mover horizontal y vertical
+  . y , : Escalado de la mascara (par acorregir diferencia de Fov)
+
+Ajustar blur de mascara
+  Z-X : Ajusta nivel de suavizado
+
+----
+
+

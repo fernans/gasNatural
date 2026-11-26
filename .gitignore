@@ -1,0 +1,39 @@
+# Windows / macOS / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store
+._*
+__MACOSX/
+*.tmp
+*.log
+*.user
+*.depend
+*.layout
+
+# Backup and obsolete local copies (kept on disk, not published)
+Copia de */
+Backup_old/
+dev/_bak/
+dev/___old___airkinect-2-core-mssdk.ane
+
+# Excluded signing material
+META-INF/signatures.xml
+*.p12
+*.pfx
+*.pem
+*.key
+*.cer
+*.crt
+*.der
+*.pvk
+*.snk
+dev/probador.app.rar
+test/test.app.rar
+
+# Files larger than 100 MB (published as gasNatural-assets.zip in Releases)
+material/graficos/fondos_videos/DORMITORIO.mov
+material/graficos/fondos_videos/DUCHA.mov
+material/graficos/fondos_videos/COCINA.mov
+dev/probador.fla
+redist/KinectSDK-v1.6-Setup.exe
+redist/KinectDeveloperToolkit-v1.6.0-Setup.exe

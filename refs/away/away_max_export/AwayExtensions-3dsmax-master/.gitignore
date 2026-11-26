@@ -1,0 +1,6 @@
+.DS_Store
+*.o
+*.sdf
+*.suo
+*.user
+/x64
